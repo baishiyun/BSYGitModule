@@ -1,0 +1,16 @@
+PODS:
+  - BSYGitModule (0.1.0)
+
+DEPENDENCIES:
+  - BSYGitModule (from `../`)
+
+EXTERNAL SOURCES:
+  BSYGitModule:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BSYGitModule: e787f09ab00e20b600abc6af6cdd11b391c35952
+
+PODFILE CHECKSUM: 011efb9a36406df2a08d28db6cb345cd1fea39c3
+
+COCOAPODS: 1.4.0

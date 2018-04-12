@@ -1,0 +1,6 @@
+framework module BSYGitModule {
+  umbrella header "BSYGitModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

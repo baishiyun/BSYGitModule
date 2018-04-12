@@ -7,7 +7,7 @@
 //
 
 #import "BSYViewController.h"
-
+#import <BSYGitModule/BSYPopVC.h>
 @interface BSYViewController ()
 
 @end
@@ -17,6 +17,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+
+
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

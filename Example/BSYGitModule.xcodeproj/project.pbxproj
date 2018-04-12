@@ -37,10 +37,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1962C137A3C2E304A812302A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		1962C137A3C2E304A812302A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		293F3F22EE4056DF4FF1DB7C /* Pods_BSYGitModule_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BSYGitModule_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3F144524AABFD580CB9EFFCD /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		435A8901FED26EAB9EA16F8B /* BSYGitModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = BSYGitModule.podspec; path = ../BSYGitModule.podspec; sourceTree = "<group>"; };
+		3F144524AABFD580CB9EFFCD /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		435A8901FED26EAB9EA16F8B /* BSYGitModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = BSYGitModule.podspec; path = ../BSYGitModule.podspec; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* BSYGitModule_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BSYGitModule_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -533,6 +533,7 @@
 			baseConfigurationReference = E5F20B375430307458A41E4A /* Pods-BSYGitModule_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BSYGitModule/BSYGitModule-Prefix.pch";
 				INFOPLIST_FILE = "BSYGitModule/BSYGitModule-Info.plist";
@@ -548,6 +549,7 @@
 			baseConfigurationReference = 6CEDFE42006CFCE60D836D0B /* Pods-BSYGitModule_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BSYGitModule/BSYGitModule-Prefix.pch";
 				INFOPLIST_FILE = "BSYGitModule/BSYGitModule-Info.plist";
