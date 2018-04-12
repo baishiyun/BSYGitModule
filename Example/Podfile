@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BSYGitModule_Example' do
+  pod 'BSYGitModule', :path => '../'
+
+  target 'BSYGitModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
